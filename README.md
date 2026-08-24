@@ -121,19 +121,37 @@ A modern business website developed with a focus on responsive layouts, service 
 
 ---
 
-### 💳 AgosBank System
+### 💼 JobConnections Agency Website
 
-A Java-based system project focused on implementing application logic and core software development concepts.
+A professional agency website developed to present services, opportunities, and company information through a clean and responsive web experience.
 
-🔗 [View Repository](https://github.com/prinnsipieeee/AgosBank-System-TesdaProject)
+**Development involvement includes:**
+- Front-end web development
+- Responsive UI implementation
+- Website structure and content presentation
+- UI/UX improvements
+- Website maintenance and updates
+- Deployment
+
+🔗 [View Repository](https://github.com/prinnsipieeee/jobconnections-website)
 
 ---
 
-### 🎥 Arikla Camera Rental Website
+### 🎤 The Ramayan Sibs
 
-A website project designed around a camera rental service, focusing on clean presentation, responsive layouts, and accessible user interfaces.
+A business website created for **The Ramayan Sibs**, a musical group that provides live singing performances for weddings, birthdays, celebrations, and other events.
 
-🔗 [View Repository](https://github.com/prinnsipieeee/ArkilaCameraRental-Website)
+The website focuses on presenting their services, identity, and event-related offerings through an engaging and user-friendly web presence.
+
+**Development involvement includes:**
+- Front-end development
+- Responsive website design
+- Business/service presentation
+- UI/UX implementation
+- Content organization
+- Website updates and maintenance
+
+🔗 [View Repository](https://github.com/prinnsipieeee/The-Ramayan-Sibs)
 
 ---
 
