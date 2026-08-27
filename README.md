@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Prince Peñaflor
+# 👋 Hi, I'm Prince Albert C. Peñaflor
 
 ### Front-End Developer • IT Student • Aspiring Full-Stack Developer
 
