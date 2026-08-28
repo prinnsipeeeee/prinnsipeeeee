@@ -1,63 +1,37 @@
-<div align="center">
+**# 👨💻 Prince Peñaflor
+**Front-End Developer | IT Student | Aspiring Full-Stack Developer**
 
-# 👋 Hi, I'm Prince Peñaflor
-
-### Front-End Developer • IT Student • Aspiring Full-Stack Developer
-
-Building modern, responsive, and user-focused web experiences.
-
-</div>
+Building modern, responsive, and performance-focused web applications.
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm a Front-End Developer and IT student passionate about building websites, improving user experiences, and learning new technologies.
-
-Currently working with **JavaScript, React, Vite, Tailwind CSS, PHP, and Java**, with hands-on experience in **UI/UX, QA testing, website maintenance, and deployment**.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**
-HTML • CSS • JavaScript • PHP • Java
-
-**Front-End:**
-React • Vite • Tailwind CSS • Materialize
-
-**Tools & Platforms:**
-Git • GitHub • Docker • AWS • VS Code
-Vercel • GitHub Pages • Hostinger • Google Play Console
+### 📌 About Me
+- 🎓 **Education:** IT Student with practical experience in UI/UX, QA testing, website maintenance, and deployment.
+- 🎯 **Current Focus:** Expanding into Full-Stack development (APIs, Databases, Cloud Infrastructure).
+- 💡 **Key Strengths:** Fast Learner • Problem Solving • Team Collaboration
 
 ---
 
-## 🚀 Selected Projects
+### 🛠️ Technical Skills
 
-**SmartMappia** — Multi-service platform for food delivery, airport transfers, and e-commerce.
-
-**Yaramay Website** — Business website focused on responsive design and service presentation.
-
-**JobConnections Agency Website** — Professional agency website for business and recruitment-related services.
-
-**The Ramayan Sibs** — Business website for a music group providing performances for weddings, birthdays, and events.
-
----
-
-## 📚 Currently Learning
-
-Strengthening my **Front-End Development** skills while expanding toward **Full-Stack Development**, backend technologies, APIs, databases, cloud, and deployment.
+| Domain | Tech Stack |
+| :--- | :--- |
+| **Languages** | HTML5, CSS3, JavaScript (ES6+), PHP, Java |
+| **Front-End** | React, Vite, Tailwind CSS, Materialize |
+| **DevOps & Cloud** | AWS, Docker, Vercel, Hostinger, Google Play Console |
+| **Tools** | Git, GitHub, VS Code |
 
 ---
 
-## 💡 Strengths
+### 🚀 Selected Projects
 
-Fast Learner • Team Collaboration • Willing to Learn • Problem Solving
+- **SmartMappia** — Multi-service platform for food delivery, airport transfers, and e-commerce.
+- **Yaramay Website** — Responsive business website highlighting core services.
+- **JobConnections Agency** — Professional recruitment and business services site.
+- **The Ramayan Sibs** — Event booking website for professional music performances.
 
 ---
 
 <div align="center">
-
-### Build • Learn • Improve 🚀
-
-</div>
+  <b>Build • Learn • Improve 🚀</b>
+</div>**
